@@ -156,7 +156,7 @@ where I bring stories to life through visual storytelling. I am always eager to 
 </div>
 </section>
 
-<section id="resume">
+<section id="resume.png">
 
 <div class="section-content">
 <center>
